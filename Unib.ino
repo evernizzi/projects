@@ -19,6 +19,7 @@ bool direita, esquerda;
  
 void setup() {
   delay(5000);
+  Serial.begin(9600);
   pinMode(MotorA_sentido1, OUTPUT);
   pinMode(MotorA_sentido2, OUTPUT);
   pinMode(MotorB_sentido1, OUTPUT);
