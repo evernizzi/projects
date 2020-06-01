@@ -1,0 +1,7 @@
+[GERAL]
+entrada = 3
+timeframe = 5
+fator_gale = 1.7
+qnt_gale = 2
+email = seuemail
+senha = suasenha
